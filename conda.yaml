@@ -1,0 +1,14 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+      - requests
+      - pandas
+      - beautifulsoup4
+      - selenium
+      - webdriver-manager
+  - chromium  # Adiciona o navegador Chromium necessário para o ChromeDriver
+  - chromedriver  # Adiciona o ChromeDriver necessário para o Selenium
