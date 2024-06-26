@@ -3,4 +3,5 @@ tasks:
     command:
       - python
       - main.py
+
 artifactsDir: output
