@@ -78,7 +78,7 @@ The main steps:
 
 1. Clone the repo:
   ```sh
-   git clone https://github.com/gbdeassis0407/RPA_Challenge.git
+   [https://github.com/Wilson-Oliveira-Junior/Rpa_CHALLENGE.git]
   ```
 
 2. Install the required libraries:
