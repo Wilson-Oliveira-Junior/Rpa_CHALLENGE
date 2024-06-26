@@ -1,3 +1,5 @@
 tasks:
   Default:
-    robot: python main.py
+    command:
+      - python
+      - main.py
