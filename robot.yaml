@@ -1,0 +1,3 @@
+tasks:
+  Default:
+    robot: python main.py
